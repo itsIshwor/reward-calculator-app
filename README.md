@@ -1,9 +1,9 @@
-# Charter communications - Programming Assignment By ISHOWR UPRETI
+# Charter communications - Programming Assignment By ISHWOR UPRETI
 
 ## Getting Started
 
 - Java version 11 or greater is required.
-- Recommend installing latest version of Maven.
+- Recommend installing the latest version of Maven.
 
 1. Clone this repo
 2. Execute Following Command and Request from post man from insomnia in order to get output:
@@ -51,5 +51,6 @@
 * [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.6.1/reference/htmlsingle/#boot-features-jpa-and-spring-data)
 * [JUnit5](https://junit.org/junit5/)
 * [mockito](https://site.mockito.org/)
+* [lombok](https://projectlombok.org/)
 
 
